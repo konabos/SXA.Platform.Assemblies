@@ -1,0 +1,68 @@
+sep=,
+Filename,Version,FileVersion,InfoVersion
+AjaxMin.dll,5.14.5506.26196,5.14.5506.26196,5.14.5506.26196
+LinqToTwitter.AspNet.dll,3.2.0,3.2.0.0,3.2.0
+LinqToTwitter.net.dll,4.0.0.0,4.0.0.0,4.0.0.0
+Lucene.Net.Contrib.Spatial.dll,3.0.3,3.0.3.0,3.0.3
+Sitecore.LayoutService.dll,4.0.0.00069,4.0.0.0,4.0.0-r00069-7a8d91d
+Sitecore.LayoutService.Mvc.dll,4.0.0.00069,4.0.0.0,4.0.0-r00069-7a8d91d
+Sitecore.XA.Feature.Analytics.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Compliancy.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Composites.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.ContentTokens.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Context.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.CreativeExchange.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.DeviceResolver.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Engagement.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.ErrorHandling.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Events.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Forms.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.GenericMetaRendering.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Json.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.LayoutServices.Integration.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Maps.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Media.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Navigation.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Overlays.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.PageContent.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.PageStructure.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Redirects.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Search.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Security.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.SiteMetadata.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Social.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.StickyNotes.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Feature.Taxonomy.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Abstractions.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Caching.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Common.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.ContentValidation.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.DynamicPlaceholders.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Editing.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Geospatial.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Grid.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Installer.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.IoC.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.JsonVariants.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.LocalDatasources.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.MarkupDecorator.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.MediaRequestHandler.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Multisite.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Mvc.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.PlaceholderSettings.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Presentation.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Publication.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.RenderingVariants.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Scaffolding.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Search.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Search.Providers.Azure.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Search.Providers.Lucene.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Search.Providers.Solr.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.SitecoreExtensions.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Theming.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.TokenResolution.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Upgrade.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.Variants.Abstractions.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Sitecore.XA.Foundation.VersionSpecific.dll,2.7.0.1435,2.7.0.0,2.7.0 rev. 20180604
+Spatial4n.Core.dll,0.3.0.0,0.3.0.0,0.3.0.0
+
